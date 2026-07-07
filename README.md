@@ -132,30 +132,6 @@ application.properties
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-
-(Add Screenshot)
-
-### Dashboard
-
-(Add Screenshot)
-
-### Study Timer
-
-(Add Screenshot)
-
-### Website Blocker
-
-(Add Screenshot)
-
-### Analytics Dashboard
-
-(Add Screenshot)
-
----
-
 ## 🔮 Future Enhancements
 
 - AI Study Planner
@@ -169,14 +145,14 @@ application.properties
 
 ## 👨‍💻 Developer
 
-**Moturi Uday**
+**Bashetti Harshitha**
 
 GitHub:
 https://github.com/Harshitha8686
 
 LinkedIn:
-(Add Your LinkedIn Profile)
 
+https://www.linkedin.com/in/harshitha-bashetty-a4314933b
 ---
 
 ## ⭐ If you like this project
