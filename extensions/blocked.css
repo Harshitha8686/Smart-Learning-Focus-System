@@ -1,0 +1,39 @@
+.title-icon{
+    font-size:25px;
+    margin-right:10px;
+}
+body{
+    margin:0;
+    background:#f4f7fb;
+    font-family:Arial;
+}
+
+.card{
+
+    width:500px;
+
+    margin:120px auto;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:15px;
+
+    text-align:center;
+
+    box-shadow:0 0 20px #ccc;
+
+}
+
+h1{
+
+color:red;
+
+}
+
+h3{
+
+color:green;
+
+}
